@@ -20,14 +20,6 @@ dialog {
     background-repeat: no-repeat;
 }
 
-.background-victory {
-    background-image: url("../images/victory.png");
-}
-
-.background-defeat {
-    background-image: url("../images/defeat.png");
-}
-
 .dialog-content {
     height: inherit;
     display: flex;
